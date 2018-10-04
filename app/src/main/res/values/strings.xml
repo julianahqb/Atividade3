@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Teste de Estilos</string>
+    <string name="texto">Texto</string>
+    <string name="tamanho">Tamanho da letra</string>
+    <string name="estilo">Estilo</string>
+    <string name="negrito">Negrito</string>
+    <string name="italico">Itálico</string>
+    <string name="maiusculas">Maiúsculas</string>
+    <string name="cor">Cor da letra</string>
+    <string name="red">Vermelho</string>
+    <string name="green">Verde</string>
+    <string name="blue">Azul</string>
+</resources>
